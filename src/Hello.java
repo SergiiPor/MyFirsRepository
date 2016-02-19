@@ -4,5 +4,6 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World from Git's Repositiry");
+        System.out.println("And I want to kmow how to get to repository");
     }
 }
